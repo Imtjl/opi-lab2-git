@@ -1,4 +1,4 @@
-public class E implements K, B {
+public class E extends null implements K, B {
 
     private String c = "init";
 
@@ -28,6 +28,10 @@ public class E implements K, B {
         return 33;
     }
 
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
     public byte oo() {
         return 1;
     }
@@ -40,11 +44,15 @@ public class E implements K, B {
         return -1;
     }
 
-    public String nn() {
-        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
-    }
-
     public Object gg() {
         return return getClass().getClassLoader();
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
+
+    public long ac() {
+        return 333;
     }
 }

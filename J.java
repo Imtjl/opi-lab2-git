@@ -12,6 +12,10 @@ public class J extends E {
         return 42;
     }
 
+    public float ff() {
+        return 3.14;
+    }
+
     public void aa() {
         return;
     }
@@ -24,11 +28,15 @@ public class J extends E {
         return "No";
     }
 
-    public float ff() {
-        return 0;
-    }
-
     public long ac() {
         return 333;
+    }
+
+    public void ab() {
+        System.out.println();
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
     }
 }
