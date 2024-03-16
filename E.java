@@ -27,12 +27,4 @@ public class E implements K, B {
     public long dd() {
         return 33;
     }
-
-    public byte oo() {
-        return 1;
-    }
-
-    public double ee() {
-        return 0.000001;
-    }
 }

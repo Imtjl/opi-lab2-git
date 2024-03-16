@@ -11,12 +11,4 @@ public class J extends E {
     public int cc() {
         return 42;
     }
-
-    public void aa() {
-        return;
-    }
-
-    public Object pp() {
-        return this;
-    }
 }
