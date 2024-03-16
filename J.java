@@ -27,4 +27,8 @@ public class J extends E {
     public float ff() {
         return 0;
     }
+
+    public long ac() {
+        return 333;
+    }
 }

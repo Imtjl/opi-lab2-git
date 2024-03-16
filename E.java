@@ -43,4 +43,8 @@ public class E implements K, B {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }
