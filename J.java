@@ -19,4 +19,8 @@ public class J extends E {
     public Object pp() {
         return this;
     }
+
+    public String kk() {
+        return "No";
+    }
 }
