@@ -23,4 +23,8 @@ public class J extends E {
     public String kk() {
         return "No";
     }
+
+    public float ff() {
+        return 0;
+    }
 }

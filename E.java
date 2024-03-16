@@ -39,4 +39,8 @@ public class E implements K, B {
     public int af() {
         return -1;
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
 }
