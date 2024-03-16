@@ -31,4 +31,8 @@ public class E implements K, B {
     public byte oo() {
         return 1;
     }
+
+    public double ee() {
+        return 0.000001;
+    }
 }
