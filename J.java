@@ -15,4 +15,8 @@ public class J extends E {
     public void aa() {
         return;
     }
+
+    public Object pp() {
+        return this;
+    }
 }
