@@ -19,4 +19,24 @@ public class J extends E {
     public Object pp() {
         return this;
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public String kk() {
+        return "Hello world";
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }

@@ -1,4 +1,4 @@
-public class E implements K, B {
+public class E extends null implements K, B {
 
     private String c = "init";
 
@@ -34,5 +34,37 @@ public class E implements K, B {
 
     public double ee() {
         return 0.000001;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public long ac() {
+        return 111;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
+
+    public String kk() {
+        return "Yes";
     }
 }
